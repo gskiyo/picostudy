@@ -1,0 +1,6 @@
+{
+    "URI" : "ws://192.168.88.200/mqtt",
+    "clientId" :"owase5g1Device0",
+    "username" :"",
+    "password" :""
+ }
